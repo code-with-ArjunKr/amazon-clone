@@ -24,7 +24,7 @@
 }
 
 .logo {
-    background-image: url("/amazon_logo.jpg");
+    background-image: url("amazon_logo.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 50px;
@@ -166,7 +166,7 @@ span {
 
 /* Hero section */
 .hero-section {
-    background-image: url("/hero_section.jpg");
+    background-image: url("hero_section.jpg");
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -303,7 +303,7 @@ ul a:hover {
 }
 
 .logo2 {
-    background-image: url("/amazon_logo2.jpg");
+    background-image: url("amazon_logo2.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 50px;
